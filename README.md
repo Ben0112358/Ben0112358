@@ -17,3 +17,7 @@ Not limited to ML models in the strict sense. Supports project-specific pipeline
 
 - Each repository is independently runnable
 - Pipeline can be executed end-to-end via `execute.sh` in ml-pipeline
+
+### Implemented models (so far)
+- Dummy model for end-to-end pipeline validation.
+- Portfolio allocation optimizer (Bayesian optimization), demonstrating non-ML training outputs.
