@@ -5,7 +5,7 @@ Modular ML pipeline ecosystem built around reproducible, containerized stages.
 Not limited to ML models in the strict sense. Supports project-specific pipelines producing arbitrary outputs, from machine learning models to general optimization or computation results.
 ### Repositories
 
-- [ml-meta](https://github.com/Ben0112358/ml-meta) – system overview and architecture map
+- [ml-meta](https://github.com/Ben0112358/ml-meta) – Overview, architecture, and cross-repo dev tooling.
 - [ml-pipeline](https://github.com/Ben0112358/ml-pipeline) – orchestration entrypoint (dev/prod execution)
 - [ml-infra](https://github.com/Ben0112358/ml-infra) – infrastructure setup
 - [ml-data](https://github.com/Ben0112358/ml-data) – data ingestion and preprocessing
