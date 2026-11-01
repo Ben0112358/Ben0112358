@@ -21,3 +21,4 @@ Not limited to ML models in the strict sense. Supports project-specific pipeline
 ### Implemented models (so far)
 - Dummy model for end-to-end pipeline validation.
 - Portfolio allocation optimizer (Bayesian optimization), demonstrating non-ML training outputs.
+- Board meeting protocol: prompt pack for writing and reviewing meeting protocols.
